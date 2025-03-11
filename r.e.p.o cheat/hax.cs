@@ -841,8 +841,7 @@ namespace r.e.p.o_cheat
 
             if (DebugCheats.drawEspBool || DebugCheats.drawItemEspBool || DebugCheats.drawExtractionPointEspBool || DebugCheats.drawPlayerEspBool || DebugCheats.draw3DPlayerEspBool || DebugCheats.draw3DItemEspBool) DebugCheats.DrawESP();
 
-            GUI.Label(new Rect(10, 10, 200, 30), "D.A.R.K CHEAT | DEL - MENU");
-            GUI.Label(new Rect(198, 10, 200, 30), "MADE BY Github/D4rkks");
+            GUI.Label(new Rect(10, 10, 200, 30), "ShieldSupporter");
 
             if (showMenu)
             {

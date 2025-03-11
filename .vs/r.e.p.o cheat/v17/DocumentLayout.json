@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacob\\Documents\\GitHub\\r.e.p.o-cheat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07205E12-856A-40BF-A8EE-41329506BE39}|r.e.p.o cheat\\r.e.p.o cheat.csproj|c:\\users\\jacob\\documents\\github\\r.e.p.o-cheat\\r.e.p.o cheat\\hax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07205E12-856A-40BF-A8EE-41329506BE39}|r.e.p.o cheat\\r.e.p.o cheat.csproj|solutionrelative:r.e.p.o cheat\\hax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hax.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\Documents\\GitHub\\r.e.p.o-cheat\\r.e.p.o cheat\\hax.cs",
+              "RelativeDocumentMoniker": "r.e.p.o cheat\\hax.cs",
+              "ToolTip": "C:\\Users\\jacob\\Documents\\GitHub\\r.e.p.o-cheat\\r.e.p.o cheat\\hax.cs",
+              "RelativeToolTip": "r.e.p.o cheat\\hax.cs",
+              "ViewState": "AgIAADMDAAAAAAAAAAAtwEsDAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:16:22.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
